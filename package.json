@@ -1,0 +1,26 @@
+{
+  "name": "evm",
+  "version": "1.0.0",
+  "description": "It is a evm made with node mcu",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashgo0018/env.git"
+  },
+  "keywords": [
+    "nodemcu",
+    "nodejs",
+    "esp8266",
+    "firebase",
+    "iot"
+  ],
+  "author": "Yash Goyal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yashgo0018/env/issues"
+  },
+  "homepage": "https://github.com/yashgo0018/env#readme"
+}
